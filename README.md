@@ -1,5 +1,9 @@
 ## Desafio Fácil: Decoração de Festa com Bandeirinhas 🎉
 
+Este repositório contém a solução para o desafio fácil propostos no módulo de JavaScript.
+
+Este projeto é desenvolvido como parte do **Programa IMPULSE**, uma iniciativa incrível da CanPack & FWK que visa capacitar jovens desenvolvedores em habilidades técnicas e práticas na área de tecnologia, com foco em programação e desenvolvimento web. Fazer parte desse programa e resolver esses desafios tem sido uma experiência muito valiosa!
+
 ### O Desafio Proposto
 
 A ideia desse desafio é criar uma página web interativa onde o usuário pode digitar um número, e o sistema gera automaticamente uma fileira de bandeirinhas coloridas, com cores alternadas! Pense naquelas festas juninas, com um monte de bandeirinhas balançando no ar. 🎊
